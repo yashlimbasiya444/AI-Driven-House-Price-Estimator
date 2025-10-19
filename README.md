@@ -36,6 +36,7 @@ The real estate market is full of uncertainty, and I wanted to create a simple d
 ---
 
 ## 📋 Table of Contents
+## 📋 Table of Contents
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -47,6 +48,7 @@ The real estate market is full of uncertainty, and I wanted to create a simple d
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [Contact](#contact)
+
 
 ---
 
