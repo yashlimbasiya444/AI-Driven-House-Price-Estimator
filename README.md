@@ -28,9 +28,7 @@ The app features a secure login and sign-up system to manage user access.
 
 ### 2. Home Page & Price Prediction
 The main home page is where users can input property details. It features sliders and dropdowns for location, square feet, BHK, and bathrooms.
-<p align_content="center">
-  <img src="images/02-home-page.png" alt="Home Page Default" width="800">
-</p>
+
 <p align="center">
   <img src="images/03-home-input.png" alt="Home Page with User Input" width="800">
 </p>
