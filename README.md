@@ -95,23 +95,25 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
-    cd [your-project-directory]
+    git clone [https://github.com/yashlimbasiya444/AI-Driven-House-Price-Estimator.git](https://github.com/yashlimbasiya444/AI-Driven-House-Price-Estimator.git)
     ```
 
-2.  **Install the required libraries:**
+2.  **Navigate to the project directory:**
+    ```bash
+    cd AI-Driven-House-Price-Estimator
+    ```
+
+3.  **Install the required libraries:**
     ```bash
     pip install streamlit pandas numpy scikit-learn altair
     ```
 
-3.  **Run the Streamlit application:**
+4.  **Run the Streamlit application:**
     ```bash
     streamlit run app.py
     ```
 
-4.  Open your web browser and go to the local URL (usually `http://localhost:8501`).
-
-<br>
+5.  Open your web browser and go to the local URL (usually `http://localhost:8501`).
 
 ## 🤝 Contributing
 
