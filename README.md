@@ -14,12 +14,44 @@ The project is deployed as an interactive web application using **Streamlit**. I
 
 ## 🚀 Application Preview
 
-*(This is the space for your output. You can add a screenshot or GIF of your application here.)*
+Here is a walkthrough of the application's features:
 
+## 🚀 Application Preview
+
+Here is a walkthrough of the application's features:
+
+### 1. Secure Login
+The app features a secure login and sign-up system to manage user access.
 <p align="center">
-  <img src="https" alt="App Preview">
+  <img src="images/01-login.png" alt="Login Page" width="800">
 </p>
 
+### 2. Home Page & Price Prediction
+The main home page is where users can input property details. It features sliders and dropdowns for location, square feet, BHK, and bathrooms.
+<p align_content="center">
+  <img src="images/02-home-page.png" alt="Home Page Default" width="800">
+</p>
+<p align="center">
+  <img src="images/03-home-input.png" alt="Home Page with User Input" width="800">
+</p>
+
+### 3. Prediction Result & Comparison Chart
+After clicking "Predict," the app shows the estimated price and a dynamic bar chart. This chart compares your selection's price to the average prices for other property sizes in that same location.
+<p align="center">
+  <img src="images/04-home-output.png" alt="Prediction Result and Chart" width="800">
+</p>
+
+### 4. Interactive Dataset
+A "Data Set" page allows users to view and explore the final, cleaned dataset that was used to train the machine learning model.
+<p align="center">
+  <img src="images/06-dataset-page.png" alt="Data Set Page" width="800">
+</p>
+
+### 5. Project Information
+An "About" page details the project's workflow, from data collection to deployment, and lists the technologies used.
+<p align="center">
+  <img src="images/07-about-page.png" alt="About Page" width="800">
+</p>
 <br>
 
 ## ✨ Key Features
