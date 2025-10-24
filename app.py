@@ -161,7 +161,7 @@ def main():
     if st.session_state['logged_in']:
         load_artifacts()
 
-        st.sidebar.title(f"Swagat Hai, {st.session_state['username']}!")
+        st.sidebar.title(f"welcome! , {st.session_state['username']}!")
         
         # --- Sidebar Navigation ---
         if st.sidebar.button("🏠 Home", use_container_width=True): st.session_state.page = "Home"
@@ -225,4 +225,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
